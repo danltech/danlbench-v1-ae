@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Minimal-Theme ohne MaterialComponents -->
+    <style name="Theme.DanlBenchClassic" parent="android:Theme.NoTitleBar">
+        <!-- Keine Farben nötig, wir nutzen das reine Android-Theme -->
+    </style>
+</resources>
