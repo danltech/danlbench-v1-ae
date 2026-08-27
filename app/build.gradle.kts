@@ -10,8 +10,8 @@ android {
         applicationId = "com.github.danltech.danlbench_v1"
         minSdk = 8
         targetSdk = 36
-        versionCode = 2
-        versionName = "1.0-beta3"
+        versionCode = 4          // Skip V3 to make it easier because of beta4
+        versionName = "1.0-beta4"
         multiDexEnabled = true
     }
 
