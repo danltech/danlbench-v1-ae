@@ -1,4 +1,4 @@
-package com.github.danltech.danlbench_v1; // Wichtig: Paketname anpassen!
+package com.github.danltech.danlbench_v1;
 
 import android.app.Activity;
 import android.os.Bundle;
